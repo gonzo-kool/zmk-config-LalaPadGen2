@@ -67,7 +67,7 @@
             bindings = <
 &kp Q              &kp W      &kp E         &kp R      &kp T                                            &kp Y                   &kp U     &kp I           &kp O           &kp P
 &kp A              &kp S      &kp D         &kp F      &kp G                                            &kp H                   &kp J     &kp K           &kp L           &mt2 EQUAL MINUS
-&mt2 LEFT_SHIFT Z  &kp X      &kp C         &kp V      &kp B                                            &kp N                   &kp M     &kp COMMA       &kp PERIOD      &kp SLASH
+&mt2 LEFT_SHIFT Z  &kp X      &kp C         &kp V      &kp B                                            &kp N                   &kp M     &kp COMMA       &kp PERIOD      &mt2 RIGHT_SHIFT SLASH
 &kp LCTRL          &kp LWIN   &kp LEFT_ALT  &mo 1      &mt2 LCTRL SPACE  &kp LEFT_SHIFT  &kp BACKSPACE  &mt2 RIGHT_SHIFT ENTER  &mo 2     &kp LANGUAGE_2  &kp LANGUAGE_1  &mt2 RCTRL BACKSLASH
                    &none      &kp RIGHT     &kp DOWN   &kp LEFT          &kp UP          &kp UP         &kp LEFT                &kp DOWN  &kp RIGHT       &none
 &mkp LCLK          &mkp RCLK  &mkp MCLK                                                                                                   &mkp LCLK       &mkp RCLK       &mkp MCLK
