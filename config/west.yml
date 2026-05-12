@@ -5,7 +5,9 @@ manifest:
     - name: ShiniNet
       url-base: https://github.com/ShiniNet/
     - name: caksoylar
-      url-base: https://github.com/caksoylar
+      url-base: https://github.com/caksoylar-
+    - name: tmn10
+      url-base: https://github.com/tmn10/
   projects:
     - name: zmk
       remote: zmkfirmware
